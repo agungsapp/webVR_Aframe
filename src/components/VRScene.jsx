@@ -6,7 +6,7 @@ import 'aframe-event-set-component';
 import 'aframe-proxy-event-component';
 
 const VRScene = () => {
-  const [currentImage, setCurrentImage] = useState('#top_right');
+  const [currentImage, setCurrentImage] = useState('#top_left');
   const [hotspots, setHotspots] = useState({
     '#top_right': [
       { position: '-9 1 -2', target: '#bottom_center' },
