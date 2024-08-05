@@ -91,7 +91,7 @@ const VRScene = () => {
         ))}
       </a-scene>
 
-      <button id="vr-button" style={buttonStyle}>Enter VR</button>
+      <button id="vr-button" style={buttonStyle}>Mode Kamera VR</button>
     </>
   );
 };
