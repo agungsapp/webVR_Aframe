@@ -19,9 +19,9 @@ const VRScene = () => {
       { position: '-10 1 0', target: '#top_center' },
     ],
     '#top_left': [
-      { position: '-1 1 8', target: '#top_right' },
-      { position: '-9 1 2', target: '#bottom_center' },
-      { position: '2 1 6', target: '#top_center' },
+      { position: '-5 1 8', target: '#top_right' },
+      { position: '-10 1 -2', target: '#bottom_center' },
+      { position: '-2 1 6', target: '#top_center' },
     ],
     '#top_center': [
       { position: '-1 1 8', target: '#top_right' },
